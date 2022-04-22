@@ -1,11 +1,12 @@
 I'm currently learning
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" />    
 </p>
 
 
 <div style="display: flex;justify-content: center;align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochaavsajanishvili&layout=compact&langs_count=10&theme=onedark"></img> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochaavsajanishvili&layout=compact&langs_count=10&theme=onedark"></img>   
 <div>
 
 <!--
