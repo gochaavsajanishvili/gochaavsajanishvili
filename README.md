@@ -4,6 +4,7 @@ I'm currently learning:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" />    
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" height="50" />    
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="50" height="50" />    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" />    
 </p>
 
 
