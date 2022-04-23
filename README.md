@@ -1,10 +1,20 @@
+I'm currently familiar with:
+<p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="50">
+</p>
+
 I'm currently learning:
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" />    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" height="50" />    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="50" height="50" />    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" />    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" />
 </p>
 
 
