@@ -10,11 +10,12 @@ I'm currently familiar with:
 
 I'm currently learning:
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50">
 </p>
 
 
