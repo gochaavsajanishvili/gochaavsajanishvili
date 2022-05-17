@@ -16,6 +16,11 @@ I'm currently learning:
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50">
 </p>
 
+I'm going to learn:
+<p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50">
+</p>
+
 
 <div style="display: flex;justify-content: center;align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochaavsajanishvili&layout=compact&langs_count=10&theme=onedark"></img>   
