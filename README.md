@@ -1,4 +1,4 @@
-I'm currently familiar with:
+I'm familiar with:
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50">
@@ -8,9 +8,13 @@ I'm currently familiar with:
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="50">
 </p>
 
-I'm currently learning:
+I'm currently refreshing my knowledge in:
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+</p>
+
+And learning:
+<p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50">
 </p>
 
