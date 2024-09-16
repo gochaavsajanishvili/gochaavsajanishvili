@@ -10,7 +10,7 @@ I'm familiar with:
 
 I'm currently refreshing my knowledge in:
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50">
 </p>
 
 And learning:
