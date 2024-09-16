@@ -5,7 +5,7 @@ I'm familiar with:
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="50">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="50">
 </p>
 
 I'm currently refreshing my knowledge in:
