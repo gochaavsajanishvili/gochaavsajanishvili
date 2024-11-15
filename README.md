@@ -2,20 +2,12 @@ I'm familiar with:
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="50">
-</p>
-
-I'm currently refreshing my knowledge in:
-<p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50">
-</p>
-
-And learning:
-<p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50">
 </p>
 
 <div style="display: flex;justify-content: center;align-items: center;">
