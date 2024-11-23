@@ -12,9 +12,6 @@ I'm familiar with:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochaavsajanishvili&layout=compact&langs_count=10&theme=onedark"></img>   
 <div>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/673cc8895434bf319a8d9b36?variant=dark&cache-bust=1)](https://roadmap.sh)
-
-
 
 
 <!--
