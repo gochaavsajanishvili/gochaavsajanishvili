@@ -10,7 +10,7 @@ I'm familiar with:
 
 <div style="display: flex;justify-content: center;align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochaavsajanishvili&layout=compact&langs_count=10&theme=onedark"></img>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gochaavsajanishvili&theme=onedark&card_height=188.5" style="margin-bottom:1.2px;" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gochaavsajanishvili&theme=onedark&card_width=300&card_height=190" alt="GitHub Streak" /></a>
 <div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gochaavsajanishvili&" alt="gochaavsajanishvili" /></p> -->
